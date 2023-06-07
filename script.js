@@ -1,1 +1,21 @@
-//your code here
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+	<div id=text>
+		"Welcome to the world of Web development"
+	</div>
+	
+
+
+    <script type="text/javascript" src="./script.js">
+</script>
+
+</body>
+
+</html>
